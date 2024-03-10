@@ -1,0 +1,18 @@
+.card {
+    position: middle;
+    width: 350px;
+    border: 3px solid black;
+    margin: 100px;
+    color: green;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 12px 70px 4px;
+    font-family: 'Tw Cen MT';
+    font-size: 16px;
+    height: 450px;
+  }
+  
+  .ts {
+    margin-top: 100px;
+    position: middle;
+    color: black;
+  }
+  

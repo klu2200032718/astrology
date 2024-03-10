@@ -1,0 +1,55 @@
+  .box2 {
+    border: 1px solid #2b0808;
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    margin: auto;
+    
+  }
+
+  .dropdowns {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+
+  .dropdowns select {
+    padding: 5px;
+    margin-right: 10px;
+  }
+
+  .dropdown-space {
+    width: 20px;
+  }
+
+  .form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  .form input,
+  .form select {
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+
+  .form button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  lan{
+    height: 100%;
+      width: 100%;
+      background-image:url("https://www.google.com/search?q=astrology&rlz=1C5GCEM_enIN990IN990&sxsrf=APwXEdfD2exCMfzyW6EoOoixqgDA8O4-Iw:1680332178263&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjg7NuUjYj-AhVHSmwGHThzDHYQ_AUoA3oECAEQBQ&biw=1440&bih=719&dpr=2#imgrc=mI8hCj-frJwrhM");
+      background-position: center;
+      background-size: cover;
+      position: absolute;
+  }
